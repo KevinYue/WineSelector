@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WineSelector</string>
+    <string name="start">Start App</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login">Login</string>
+    <string name="Registerhere">Create WineSelector Account</string>
+    <string name="title_activity_elements">elements</string>
+    <string name="title_activity_food_list">FoodList</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search here</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Search">search here</string>
+    <string name="Dice">Dice: </string>
+    <string name="favorites">Favorites</string>
+    <string name="action_foodactivity">Food Wine</string>
+    <string name="action_redactivity">Red Wine</string>
+    <string name="action_whiteactivity">White Wine</string>
+    <string name="action_roseactivity">Rose Wine</string>
+    <string name="action_sparklingactivity">Sparkling Wine</string>
+    <string name="action_searchactivity">Search Wine</string>
+    <string name="action_activity_found">Location Found</string>
+</resources>

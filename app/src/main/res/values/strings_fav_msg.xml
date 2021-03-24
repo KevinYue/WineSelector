@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_favorites">Added to Favorites</string>
+    <string name="remove_favorites">Removed from Favorites</string>
+    <string name="no_favorites">No Favorites</string>
+    <string name="long_favorites_press">Press too long on item to add Favorites</string>
+    <string name="remove_long_press">Remove from Favorites with long press</string>
+</resources>

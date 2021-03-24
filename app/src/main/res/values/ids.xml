@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_settings" type="id">action</item>
+    <item name="action_search" type="id">Action Search</item>
+    <item name="action_elementactivity" type="id">Element Activity</item>
+    <item name="action_newactivity" type="id">beginners</item>
+</resources>

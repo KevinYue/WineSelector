@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- List out the activities -->
+    <item android:id="@+id/action_foodactivity"
+        android:title="@string/action_foodactivity"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/action_redactivity"
+        android:title="@string/action_redactivity"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/action_whiteactivity"
+        android:title="@string/action_whiteactivity"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/action_roseactivity"
+        android:title="@string/action_roseactivity"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/action_sparklingactivity"
+        android:title="@string/action_sparklingactivity"
+        android:showAsAction="never"/>
+
+    <item android:id="@+id/action_searchactivity"
+        android:title="@string/action_searchactivity"
+        android:showAsAction="never"/>
+</menu>
